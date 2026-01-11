@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Brice
 
 I'm an undergraduate **Computer Science student at Texas A&M** who loves solving complex problems, and creating solutions for them!
-I'm a lifelong learner, who found love for computers! In my spare-time I like to study spanish, learn history and experience life!
 
 ---
 
@@ -24,21 +23,18 @@ Algorithms · Data Structures · Object-Oriented Design · Debugging · Version 
 Git · GitHub · VS Code · Linux · CMake · Jupyter · Make
 
 ---
-<!--
 ## 📈 Current Projects
--
+- Boot.dev Typescript pathway
+- Reading `Designing Data-Intensive Applications` by Martin Kleppmann
 
 ---
 
 ## 🌐 Beyond Code
 I’m fascinated by:
-- Comparative civilizations and how technology shapes societies  
-- Efficient learning systems (mnemonics, pattern recognition, cheat sheets)  
-- Global food traditions and how culture influences craft  
-- Practical tech troubleshooting and workflow optimization  
-
+- History
+- Language, and have a lifetime goal of becoming a polyglot! Currently I'm learning Spanish!
+- Learning how religions have formed, grown and adapted through time.
 ---
--->
 
 ## 📬 Let’s Connect
 If you're working on something interesting — especially in systems, algorithms, or global tech — I’d love to learn from it.
